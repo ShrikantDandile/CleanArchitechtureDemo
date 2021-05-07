@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Domain", "CleanAr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Data", "CleanArch.Data\CleanArch.Data.csproj", "{BD30FD1C-AE5A-4451-9067-75AEF51D7715}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.Application", "CleanArch.Application\CleanArch.Application.csproj", "{3D9202C8-FEC5-4D3E-BB1E-C877046F5464}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Application", "CleanArch.Application\CleanArch.Application.csproj", "{3D9202C8-FEC5-4D3E-BB1E-C877046F5464}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
